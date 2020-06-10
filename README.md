@@ -6,7 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/wolfes-401-advanced-javascript/notes/pull/1)
+- [submission PR 1](https://github.com/wolfes-401-advanced-javascript/notes/pull/1)
+- [submission PR 2](https://github.com/wolfes-401-advanced-javascript/notes/pull/2)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
