@@ -8,6 +8,7 @@
 
 - [submission PR 1](https://github.com/wolfes-401-advanced-javascript/notes/pull/1)
 - [submission PR 2](https://github.com/wolfes-401-advanced-javascript/notes/pull/2)
+- [submission PR 3](https://github.com/wolfes-401-advanced-javascript/notes/pull/3)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
@@ -23,7 +24,7 @@ i.e.
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- `node index.js -a 'Hello world'`
 
 #### How to use your library (where applicable)
 
