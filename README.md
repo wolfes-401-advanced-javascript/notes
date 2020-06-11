@@ -17,14 +17,15 @@
 
 #### `.env` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 3000
+- `MONGODB_ATLAS_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your application (where applicable)
 
-- `node index.js -a 'Hello world'`
+- `node index.js` must include flags listed below
+- use flags `-a` or `--add` combined with a note in "" to add a note
+- use flags `-l` or `--list` to list the notes in the db
+- use flags `-d` or `--delete` combined with the id of a note to delete that note
 
 #### How to use your library (where applicable)
 

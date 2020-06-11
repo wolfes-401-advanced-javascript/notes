@@ -24,5 +24,5 @@ if (input.validate(input) === true) {
   // addNotes.add(input);
   
 } else {
-  console.error('Houston, we have a problem!');
+  console.error('Houston, we have a problem! You must include flags.');
 }
