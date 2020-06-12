@@ -9,6 +9,7 @@
 - [submission PR 1](https://github.com/wolfes-401-advanced-javascript/notes/pull/1)
 - [submission PR 2](https://github.com/wolfes-401-advanced-javascript/notes/pull/2)
 - [submission PR 3](https://github.com/wolfes-401-advanced-javascript/notes/pull/3)
+- [submission PR 4](https://github.com/wolfes-401-advanced-javascript/notes/pull/4)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
@@ -26,6 +27,7 @@
 - use flags `-a` or `--add` combined with a note in "" to add a note
 - use flags `-l` or `--list` to list the notes in the db
 - use flags `-d` or `--delete` combined with the id of a note to delete that note
+- use flags `-u` or `--update` combined with the id and what you want the note to say, to update the note (not working yet)
 
 #### How to use your library (where applicable)
 
