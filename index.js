@@ -17,13 +17,12 @@ db.on('open', () => {
 
 
 const input = new Input;
-// console.log(input);
-
+                                                                          
 if (input.validate(input) === true) {
-  let addNotes = new Notes(input);
-  addNotes.execute(input);
-  addNotes.add(input);
+  let noteAction = new Notes(input);
+  noteAction.execute(input);
+  // addNotes.add(input);
   
 } else {
-  console.error('Houston, we have a problem!');
+  console.error('Houston, we have a problem! You must include flags.');
 }
