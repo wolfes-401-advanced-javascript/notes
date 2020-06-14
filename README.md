@@ -14,6 +14,7 @@ I'd like to thank Gahrett Morgan, Paul Depew, and Matthew Roark for their help o
 - [submission PR 2](https://github.com/wolfes-401-advanced-javascript/notes/pull/2)
 - [submission PR 3](https://github.com/wolfes-401-advanced-javascript/notes/pull/3)
 - [submission PR 4](https://github.com/wolfes-401-advanced-javascript/notes/pull/4)
+- [submission PR 4](https://github.com/wolfes-401-advanced-javascript/notes/pull/5)
 - [ci/cd](https://github.com/wolfes-401-advanced-javascript/notes/actions) (GitHub Actions)
 
 ### Setup
