@@ -4,15 +4,17 @@
 
 ### Author: Dave Wolfe
 
+## Acknowledgements
+
+I'd like to thank Gahrett Morgan, Paul Depew, and Matthew Roark for their help on this app.
+
 ### Links and Resources
 
 - [submission PR 1](https://github.com/wolfes-401-advanced-javascript/notes/pull/1)
 - [submission PR 2](https://github.com/wolfes-401-advanced-javascript/notes/pull/2)
 - [submission PR 3](https://github.com/wolfes-401-advanced-javascript/notes/pull/3)
 - [submission PR 4](https://github.com/wolfes-401-advanced-javascript/notes/pull/4)
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [ci/cd](https://github.com/wolfes-401-advanced-javascript/notes/actions) (GitHub Actions)
 
 ### Setup
 
@@ -33,9 +35,9 @@
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- How do you run tests? `npm test`
+- Any tests of note? I really like the test where I create a new note and then delete it.
+
 
 #### UML
 
